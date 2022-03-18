@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aleksanderprudnik
-- 👀 My areas of interest are human-computer interaction, information system interfaces, user interfaces and front-end web development.
-- I’m interested in Spyder IDE
 - 📫 Contact me via university <a href="mailto:aleksander.prudnik@bsuir.by">email</a> or contact me on <a href="https://www.linkedin.com/in/aleksanderprudnik">LinkedIn</a>
 
 <!---
