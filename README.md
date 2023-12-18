@@ -1,4 +1,4 @@
-# Hello, I'm ... 👋
+# Hello, I'm Aleksander Prudnik 👋
 
 I am an Associate Professor of Computer Science at the Belarusian State University of Informatics and Radioelectronics. I lead a research team that is dedicated to creating, advancing, and assessing innovative interaction methods and user interfaces.
 
