@@ -24,7 +24,8 @@ I am fascinated by the potential of deep learning, neural networks, and natural 
 
 I am always open to new challenges and opportunities to expand my expertise. As a mentor, I enjoy guiding aspiring researchers and students, and sharing my insights with the academic community. If you're interested in my work or would like to collaborate, feel free to reach out:
 
-- 📧 Email: ...
+-  ...
+- [📧 Email:](aleksander.prudnik@bsuir.by)
 - [🔗 LinkedIn:](https://www.linkedin.com/in/aleksanderprudnik/)
 
 I look forward to hearing from you!
