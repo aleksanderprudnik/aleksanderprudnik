@@ -1,29 +1,26 @@
-# Hello, I'm Aleksander Prudnik 👋
+Hello, I'm Aleksander Prudnik 👋
 
-I am an Associate Professor of Computer Science at the Belarusian State University of Informatics and Radioelectronics. I lead a research team that is dedicated to creating, advancing, and assessing innovative interaction methods and user interfaces.
+I serve as an Associate Professor of Computer Science 🎓, the Vice Head of Departmental R&D 🚀, and the Research Group Lead 🧪 at the Belarusian State University of Informatics and Radioelectronics.
 
-## 🎯 Our Focus
+## 🎯 My Role
+In my capacity as a professor, I deliver lectures on advanced topics such as Human-Computer Interaction 💻, Information Systems Interfaces 🖥️, Big Data Technology 📊, and Blockchain Technology 🔗. I also guide PhD, Master’s, and undergraduate students in their thesis development, fostering an environment of academic growth and innovation 🌱.
 
-We adopt a multidisciplinary approach that merges computer science, psychology, design, and education theories and methodologies. Our areas of interest include:
+As the Vice Head of Departmental R&D, I am involved in a wide array of activities that span the entire department. My duties include formulating and implementing research strategies 📝, overseeing ongoing research projects 🔬, and ensuring efficient use of resources 💡. I also play a crucial role in mentoring all department members and fostering a collaborative and innovative environment within the research sphere.
 
-- Virtual and augmented reality
-- Tangible and gestural interaction
-- Adaptive and individualized interfaces
-- Usability and user experience assessment
-- Educational technology
+As a Research Group Lead, my role is more concentrated, presiding over a specific group within the university’s R&D division. I am tasked with the development and leadership of research projects 📚, the management of the group’s resources 📈, and the supervision and mentorship of the research staff and students within the group.
 
-## 🏆 My Experience
-
-With over 20 years in the field of computer science, I have published more than 150 papers in international journals and conferences. My research projects have been recognized with numerous grants. Additionally, I have guided over 50 master's and doctoral students.
+## 🏆 My Achievements
+Over the years, I have supervised over 50 Master’s and Bachelor’s students 👨‍🎓, guided them to successful completion of their theses, published over 150 research papers in high-impact journals 📖, contributed to the body of knowledge in the field of computer science, formulated and executed research strategies that led to significant advancements in our field, supervised numerous research projects, ensured their completion within the set timeline and budget, fostered a collaborative and innovative research environment, resulting in increased productivity and significant research findings, presided over a series of successful research projects that have made substantial contributions to our field, effectively managed the group’s resources, ensuring optimal productivity, and successfully established a supportive and collaborative research culture within the group, leading to high-quality research outcomes.
 
 ## 🚀 My Interests
-
-I am fascinated by the potential of deep learning, neural networks, and natural language generation. I am particularly interested in how virtual and augmented reality can create immersive and interactive experiences that enhance learning, entertainment, and social interaction.
+I am committed to academic excellence, technological advancement, and student success. I continuously strive to make a significant impact in the field of computer science.
 
 ## 🤝 Let's Connect
+I am always open to new challenges and opportunities. If you're interested in my work or would like to collaborate, feel free to reach out:
 
-I am always open to new challenges and opportunities to expand my expertise. As a mentor, I enjoy guiding aspiring researchers and students, and sharing my insights with the academic community. If you're interested in my work or would like to collaborate, feel free to reach out:
-
+📧 Email: [Your Email]
+🔗 LinkedIn: [Your LinkedIn]
+Looking forward to connecting with you! 🌟
 -  ...
 - [📧 Email:](aleksander.prudnik@bsuir.by)
 - [🔗 LinkedIn:](https://www.linkedin.com/in/aleksanderprudnik/)
