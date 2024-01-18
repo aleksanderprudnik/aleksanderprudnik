@@ -18,11 +18,7 @@ I am committed to academic excellence, technological advancement, and student su
 ## 🤝 Let's Connect
 I am always open to new challenges and opportunities. If you're interested in my work or would like to collaborate, feel free to reach out:
 
-📧 Email: [Your Email]
-🔗 LinkedIn: [Your LinkedIn]
-Looking forward to connecting with you! 🌟
--  ...
 - [📧 Email:](aleksander.prudnik@bsuir.by)
 - [🔗 LinkedIn:](https://www.linkedin.com/in/aleksanderprudnik/)
 
-I look forward to hearing from you!
+Looking forward to connecting with you! 🌟
