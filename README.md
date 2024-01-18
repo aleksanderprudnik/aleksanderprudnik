@@ -6,7 +6,7 @@ I'm an Associate Professor of Computer Science 🎓, the Vice Head of Department
 
 ## 🎯 My Role
 - As a **Professor**, I:
-    - Deliver lectures on advanced topics such as Human-Computer Interaction 💻, Information Systems Interfaces 🖥️, Big Data Technology 📊, and Blockchain Technology 🔗.
+    - Deliver lectures on advanced topics such as Information Systems Interfaces 🖥️, Big Data Technology 📊, and Blockchain Technology 🔗.
     - Guide PhD, Master’s, and undergraduate students in their thesis development, fostering an environment of academic growth and innovation 🌱.
 - As the **Vice Head of Departmental R&D**, I:
     - Formulate and implement research strategies 📝.
@@ -19,14 +19,14 @@ I'm an Associate Professor of Computer Science 🎓, the Vice Head of Department
     - Supervise and mentor the research staff and students within the group.
 
 ## 🏆 My Achievements
-- Supervised over 50 Master’s and Bachelor’s students 👨‍🎓.
-- Published over 150 research papers in high-impact journals 📖.
-- Formulated and executed research strategies that led to significant advancements in our field.
-- Supervised numerous research projects, ensuring their completion within the set timeline and budget.
-- Fostered a collaborative and innovative research environment, resulting in increased productivity and significant research findings.
-- Presided over a series of successful research projects that have made substantial contributions to our field.
-- Effectively managed the group’s resources, ensuring optimal productivity.
-- Successfully established a supportive and collaborative research culture within the group, leading to high-quality research outcomes.
+- Guided over 50 Master’s and Bachelor’s students to the successful completion of their theses. 🎓
+- Published over 150 research papers in high-impact journals. 📚
+- Formulated and executed research strategies that led to significant advancements in our field. 🎯
+- Supervised numerous research projects, ensuring their completion within the set timeline and budget. 🚀
+- Fostered a collaborative and innovative research environment, resulting in increased productivity and significant research findings. 🌱
+- Presided over a series of successful research projects that have made substantial contributions to our field. 🏅
+- Effectively managed the group’s resources, ensuring optimal productivity. 💡
+- Successfully established a supportive and collaborative research culture within the group, leading to high-quality research outcomes. 🤝
 
 ## 🚀 My Interests
 I am committed to academic excellence, technological advancement, and student success. I continuously strive to make a significant impact in the field of computer science.
@@ -36,5 +36,3 @@ I am always open to new challenges and opportunities. If you're interested in my
 
 - [📧 Email:](aleksander.prudnik@bsuir.by)
 - [🔗 LinkedIn:](https://www.linkedin.com/in/aleksanderprudnik/)
-
-Looking forward to connecting with you! 🌟
