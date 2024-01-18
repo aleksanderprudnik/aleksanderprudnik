@@ -1,4 +1,4 @@
-Hello, I'm Aleksander Prudnik 👋
+## Hello, I'm Aleksander Prudnik 👋
 
 I serve as an Associate Professor of Computer Science 🎓, the Vice Head of Departmental R&D 🚀, and the Research Group Lead 🧪 at the Belarusian State University of Informatics and Radioelectronics.
 
