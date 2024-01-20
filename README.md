@@ -1,5 +1,3 @@
-Your introduction is already quite engaging and visually appealing with the use of emojis and headings. However, I can suggest a few modifications to make it even more engaging:
-
 ## Hello, I'm Aleksander Prudnik 👋
 
 I'm an Associate Professor of Computer Science 🎓, the Vice Head of Departmental R&D 🚀, and the Research Group Lead 🧪 at the Belarusian State University of Informatics and Radioelectronics.
