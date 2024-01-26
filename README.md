@@ -16,16 +16,6 @@ I'm an Associate Professor of Computer Science 🎓, the Vice Head of Department
     - Manage the group’s resources 📈.
     - Supervise and mentor the research staff and students within the group.
 
-## 🏆 My Achievements
-- Guided over 50 Master’s and Bachelor’s students to the successful completion of their theses. 🎓
-- Published over 150 research papers in high-impact journals. 📚
-- Formulated and executed research strategies that led to significant advancements in our field. 🎯
-- Supervised numerous research projects, ensuring their completion within the set timeline and budget. 🚀
-- Fostered a collaborative and innovative research environment, resulting in increased productivity and significant research findings. 🌱
-- Presided over a series of successful research projects that have made substantial contributions to our field. 🏅
-- Effectively managed the group’s resources, ensuring optimal productivity. 💡
-- Successfully established a supportive and collaborative research culture within the group, leading to high-quality research outcomes. 🤝
-
 ## 🚀 My Interests
 I am committed to academic excellence, technological advancement, and student success. I continuously strive to make a significant impact in the field of computer science.
 
