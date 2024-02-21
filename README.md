@@ -1,26 +1,31 @@
-## Hello, I'm Aleksander Prudnik 👋
+# Greetings! I'm Aleksander Prudnik 👋
 
-I'm an Associate Professor of Computer Science 🎓, the Vice Head of Departmental R&D 🚀, and the Research Group Lead 🧪 at the Belarusian State University of Informatics and Radioelectronics.
+I proudly serve as an Associate Professor of Computer Science 🎓, also holding the roles of Vice Head of Departmental R&D 🚀 and Research Group Lead 🧪 at the Belarusian State University of Informatics and Radioelectronics.
 
-## 🎯 My Role
-- As a **Professor**, I:
-    - Deliver lectures on advanced topics such as Information Systems Interfaces 🖥️, Big Data Technology 📊, and Blockchain Technology 🔗.
-    - Guide PhD, Master’s, and undergraduate students in their thesis development, fostering an environment of academic growth and innovation 🌱.
-- As the **Vice Head of Departmental R&D**, I:
-    - Formulate and implement research strategies 📝.
-    - Oversee ongoing research projects 🔬.
-    - Ensure efficient use of resources 💡.
-    - Mentor all department members and foster a collaborative and innovative environment within the research sphere.
-- As a **Research Group Lead**, I:
-    - Develop and lead research projects 📚.
-    - Manage the group’s resources 📈.
-    - Supervise and mentor the research staff and students within the group.
+## 🎯 My Roles
+
+### As a Professor, I:
+- Deliver engaging lectures on advanced topics such as Information Systems Interfaces 🖥️, Big Data Technology 📊, and Blockchain Technology 🔗.
+- Mentor and guide PhD, Master’s, and undergraduate students in their thesis development, fostering an environment of academic growth and innovation 🌱.
+
+### As the Vice Head of Departmental R&D, I:
+- Formulate and execute research strategies 📝.
+- Provide oversight on ongoing research projects 🔬.
+- Ensure optimal resource utilization 💡.
+- Mentor all department members, nurturing a collaborative and innovative research environment.
+
+### As a Research Group Lead, I:
+- Spearhead the development and execution of research projects 📚.
+- Efficiently manage the group’s resources 📈.
+- Offer guidance and mentorship to research staff and students within the group.
 
 ## 🚀 My Interests
-I am committed to academic excellence, technological advancement, and student success. I continuously strive to make a significant impact in the field of computer science.
+
+I'm deeply committed to fostering academic excellence, driving technological advancement, and ensuring the success of students. My aim is to continually make a significant impact in the field of computer science.
 
 ## 🤝 Let's Connect
-I am always open to new challenges and opportunities. If you're interested in my work or would like to collaborate, feel free to reach out. I'd love to hear from you! 😊
+
+I'm always eager for new challenges and opportunities. If you're interested in my work or seeking collaboration, don't hesitate to reach out. I'd be delighted to connect with you! 😊
 
 - [📧 Email:](aleksander.prudnik@bsuir.by)
 - [🔗 LinkedIn:](https://www.linkedin.com/in/aleksanderprudnik/)
