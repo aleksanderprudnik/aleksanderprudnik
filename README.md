@@ -27,5 +27,5 @@ I'm deeply committed to fostering academic excellence, driving technological adv
 
 I'm always eager for new challenges and opportunities. If you're interested in my work or seeking collaboration, don't hesitate to reach out. I'd be delighted to connect with you! 😊
 
-- [📧 Email:](aleksander.prudnik@bsuir.by)
-- [🔗 LinkedIn:](https://www.linkedin.com/in/aleksanderprudnik/)
+- [📧 Email: aleksander.prudnik@bsuir.by](aleksander.prudnik@bsuir.by)
+- [🔗 LinkedIn: https://www.linkedin.com/in/aleksanderprudnik/](https://www.linkedin.com/in/aleksanderprudnik/)
