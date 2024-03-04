@@ -5,8 +5,8 @@ I proudly serve as an Associate Professor of Computer Science 🎓, also holding
 ## 🎯 My Roles
 
 ### As a Professor, I:
-- Deliver engaging lectures on advanced topics such as Information Systems Interfaces 🖥️, Big Data Technology 📊, and Blockchain Technology 🔗.
-- Mentor and guide PhD, Master’s, and undergraduate students in their thesis development, fostering an environment of academic growth and innovation 🌱.
+- Deliver engaging lectures on advanced topics such as Information Systems Interfaces 🖥️, Technology of UI Design and Development 🎨, Big Data Technologies 📊, and VR AR MR Technologies 🕶️.
+- Assign laboratory works to my students via GitHub Classroom, leveraging its powerful features for educational purposes and efficient collaboration. GitHub serves as an invaluable platform for managing assignments, facilitating version control, and fostering a hands-on learning environment.
 
 ### As the Vice Head of Departmental R&D, I:
 - Formulate and execute research strategies 📝.
@@ -21,7 +21,7 @@ I proudly serve as an Associate Professor of Computer Science 🎓, also holding
 
 ## 🚀 My Interests
 
-I'm deeply committed to fostering academic excellence, driving technological advancement, and ensuring the success of students. My aim is to continually make a significant impact in the field of computer science.
+I'm deeply committed to fostering academic excellence, driving technological advancement, and ensuring the success of students. Additionally, I utilize GitHub for my side hustles, leveraging its collaborative features for personal projects.
 
 ## 🤝 Let's Connect
 
