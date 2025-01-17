@@ -4,15 +4,11 @@ I'm an Associate Professor of Computer Science at the Belarusian State Universit
 
 ## What I Do
 
-### Teaching
+### Teaching 🎓
 - I lecture on subjects like Big Data, Information System Interfaces, and Virtual/Augmented Reality.
 
-### Research
+### Research 🔬
 - As a Research Group Lead, I manage projects and mentor staff and students.
 
-## Connect with Me
-
-I'm keen on exploring new opportunities and collaborations. Feel free to reach out through my contacts below:
-
-- 📧 Email: [aleksander.prudnik@bsuir.by](mailto:aleksander.prudnik@bsuir.by)
-- 🔗 LinkedIn: [Visit my profile](https://www.linkedin.com/in/aleksanderprudnik/)
+## Connect with Me 🤝
+I'm keen on exploring new opportunities and collaborations. You can find a link to my LinkedIn page in the **profile sidebar**. There's also a link to my personal university page, where my email address is available. Feel free to get in touch!
